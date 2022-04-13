@@ -1,4 +1,4 @@
-/** lab12main.c
+/** lab12main.c (update 4/13/22)
  * =========================================================== 
  * Name: name, date
  * Section: your section
